@@ -10,3 +10,4 @@ Check out other branches for more sophisticated touches we can add to our protot
 *  `main` is the beginning layout, the most simple layout with autolayout constraints.
 
 *  `autolayout` contains changes to illustrate how we would make sure this layout looks good on multiple orientations and multiple devices.
+*  `animate` includes the autolayout changes and also adds outlets in our `ViewController.swift` so we can animate the UI elements.

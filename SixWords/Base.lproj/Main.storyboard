@@ -88,6 +88,16 @@
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
+                    <connections>
+                        <outlet property="forLabel" destination="M25-f8-Dia" id="S6m-uh-U8x"/>
+                        <outlet property="keepLabel" destination="jaH-0j-bLo" id="k3T-iF-41u"/>
+                        <outlet property="nextLabel" destination="nX7-mw-fGY" id="JbB-uC-7mJ"/>
+                        <outlet property="surferImageView" destination="YAW-XW-W0A" id="OFU-KB-x1P"/>
+                        <outlet property="theLabel" destination="ebg-6v-hsx" id="ngw-nW-KoZ"/>
+                        <outlet property="watchingLabel" destination="Pek-Tq-J8W" id="crL-Rz-rNq"/>
+                        <outlet property="waterView" destination="Mez-FT-XVV" id="XWb-Ig-jp3"/>
+                        <outlet property="waveLabel" destination="xZC-3G-10Y" id="09v-QF-dhx"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
