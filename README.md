@@ -5,3 +5,8 @@ A little demo app to go from a basic layout for our 'about me' app to more compl
 This `main` branch shows off the most basic approach to my six word story from the March 2021 Teaching Develop in Swift class.
 
 Check out other branches for more sophisticated touches we can add to our prototype.
+
+### Branches
+*  `main` is the beginning layout, the most simple layout with autolayout constraints.
+
+*  `autolayout` contains changes to illustrate how we would make sure this layout looks good on multiple orientations and multiple devices.
